@@ -1,22 +1,34 @@
-#亲加直播整体解决方案(GotyeLive)
+#亲加直播(GotyeLive)——互动视频技术整体解决方案
 
 ##简介
+随着移动互联网的发展以及移动设备的普及，网络宽带成本的下降更能让任何一个有手机的人都有向全世界做直播的能力。
+"人人都在直播"现象越发普遍，类似于映客、花椒这样的全民直播App也层出不穷。视频直播将继文字社交、图片社交、
+语音社交后成为互联网社交新模式。
 
-[亲加](http://www.gotye.com.cn/)自2011年成立以来，推出第一款产品“亲加移动IM云”，提供PaaS/SaaS一体化服务平台，覆盖用户近3亿，合作企业近
-6000家[亲加IM云](http://www.gotye.com.cn/IM.html); 之后亲加推出第二款产品“亲加互动视频直播”，刚推出即支持IOS,
-Android,WP等操作系统，支持微信，微博等社交平台分享，提供后台监管等一站式互动视频直播解决方案[亲加互动视频直播]
-(http://www.gotye.com.cn/live.html)。
+为更好帮助客户实现视频直播功能，快速拥有自己类似于花椒、映客的直播App，[亲加视频云](http://www.gotye.com.cn/live.html)
+（隶属于[亲加通讯云](http://www.gotye.com.cn/)）在基于亲加直播SDK开发一款商业级的全民直播APP(亲加直播),并
+且以开源的方式分享给直播创业者和业界人士，通过亲加全民直播开源项目的学习，就能更加快速、专业、稳定把视频直播技
+术应用到不同行业的商业产品中，进军全民直播App的视频社交浪潮中。
 
-亲加互动直播目前已经与金融、电商、教育和游戏等行业的知名企业进行深度合作，为他们提供权威的互动视频技术。正
-是于这些企业合作之后，我们发现虽然已经提供完整的sdk包，但是客户在集成的时候还是需要很多困难，我们分析发现原因
-是视频技术本身的门槛比较高，所以亲加决定基于我们的SDK开发一款商业级的全民直播APP(亲加直播),并且以开源的方式分
-享给业界，大家开源通过开源项目的学习，能够更快速的把视频直播技术应用到自己的商业产品中。
 
-##亲加直播(qpluslive)
-开源项目分为3个部分:
-亲加提供[后台服务器(golang实现)](https://github.com/QPlus/GotyeLive/tree/master/server)和[IOS app(object-C实现)]
-(https://github.com/QPlus/GotyeLive/tree/master/app/ios),亲加希望大家通过学习之后,有开源精神的程序员能够参与到这
-个开源项目当中，与亲加共同开发android版本。
+##直播APP技术框架
+<div align="center">
+<img src="https://github.com/QPlus/GotyeLive/blob/master/pic/freamwork.jpg" width="600" alt="直播APP技术框架图" align="center"/>
+</div>
 
-###亲加直播交流QQ群
-亲加直播—交流群_01 : [544476772](https://github.com/QPlus/GotyeLive/blob/master/pic/qpluslive-group01.png)
+目前亲加提供:
+
+[后台服务器(golang)](https://github.com/QPlus/GotyeLive/blob/master/server.md)和[IOS App(object-C)](https://github.com/QPlus/GotyeLive_IOS)
+Android App亲加希望大家通过学习之后,有开源精神的程序员能够参与到这个开源项目当中，与亲加共同开发android版本。
+
+
+##IOS APP
+[下载安装](http://fir.im/qjzb)
+
+<img src="https://github.com/QPlus/GotyeLive/tree/master/pic/gotyelive1.0.png" width="150"/>
+
+##亲加直播交流QQ群
+全民直播App视频技术 : [544476772](https://github.com/QPlus/GotyeLive/tree/master/pic/gotyelive-group01.png)
+
+<img src="https://github.com/QPlus/GotyeLive/tree/master/pic/gotyelive-group01.png" width="150" />
+
