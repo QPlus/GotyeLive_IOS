@@ -25,10 +25,10 @@ Android App亲加希望大家通过学习之后,有开源精神的程序员能够参与到这个开源项目当中
 ##IOS APP
 [下载安装](http://fir.im/qjzb)
 
-<img src="https://github.com/QPlus/GotyeLive/tree/master/pic/gotyelive1.0.png" width="150"/>
+<img src="https://github.com/QPlus/GotyeLive/blob/master/pic/gotyelive1.0.png" width="150"/>
 
 ##亲加直播交流QQ群
 全民直播App视频技术 : [544476772](https://github.com/QPlus/GotyeLive/tree/master/pic/gotyelive-group01.png)
 
-<img src="https://github.com/QPlus/GotyeLive/tree/master/pic/gotyelive-group01.png" width="150" />
+<img src="https://github.com/QPlus/GotyeLive/blob/master/pic/gotyelive-group01.png" width="150" />
 
