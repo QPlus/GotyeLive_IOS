@@ -32,3 +32,6 @@ Android App亲加希望大家通过学习之后,有开源精神的程序员能够参与到这个开源项目当中
 
 <img src="https://github.com/QPlus/GotyeLive/blob/master/pic/gotyelive-group01.png" width="150" />
 
+
+thanks.
+
