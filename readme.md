@@ -18,17 +18,17 @@
 
 目前亲加提供:
 
-[后台服务器(golang)](https://github.com/QPlus/GotyeLive/blob/master/server.md)和[IOS App(object-C)](https://github.com/QPlus/GotyeLive_IOS)
+[后台服务器(golang)](https://github.com/QPlus/GotyeLive/blob/master/server.md)和[IOS App(object-C)](app.md)
 Android App亲加希望大家通过学习之后,有开源精神的程序员能够参与到这个开源项目当中，与亲加共同开发android版本。
 
 
 ##IOS APP
 [下载安装](http://fir.im/qjzb)
 
-<img src="https://github.com/QPlus/GotyeLive/tree/master/pic/gotyelive1.0.png" width="150"/>
+<img src="https://github.com/QPlus/GotyeLive/blob/master/pic/gotyelive1.0.png" width="150"/>
 
 ##亲加直播交流QQ群
 全民直播App视频技术 : [544476772](https://github.com/QPlus/GotyeLive/tree/master/pic/gotyelive-group01.png)
 
-<img src="https://github.com/QPlus/GotyeLive/tree/master/pic/gotyelive-group01.png" width="150" />
+<img src="https://github.com/QPlus/GotyeLive/blob/master/pic/gotyelive-group01.png" width="150" />
 
